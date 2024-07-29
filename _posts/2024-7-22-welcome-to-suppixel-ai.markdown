@@ -9,7 +9,7 @@ Hello and welcome to the first post on the SupPixel AI blog! We are incredibly e
 
 ## Introducing SupPixel AI
 
-SupPixel AI is not just another image processing tool; it’s the culmination of years of research and development by top scientists in the field. Our advanced image upscaling solution has evolved from the open-source project [SUPIR](supir.xpixel.group), and it offers unparalleled features and performance. **At SupPixel AI, we aim to bring the most advanced set of image processing tools to our users, allowing everyone to benefit from the progress in AI image processing technology.**
+SupPixel AI is not just another image processing tool; it’s the culmination of years of research and development by top scientists in the field. Our advanced image upscaling solution has evolved from the open-source project [SUPIR](https://supir.xpixel.group/), and it offers unparalleled features and performance. **At SupPixel AI, we aim to bring the most advanced set of image processing tools to our users, allowing everyone to benefit from the progress in AI image processing technology.**
 
 ## Key Features of SupPixel AI Image Enhancement and Upscaling
 
