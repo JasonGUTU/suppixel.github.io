@@ -32,7 +32,7 @@ To showcase the power of SupPixel AI, we’ve included some before-and-after ima
 
 __Image comparison__:
 
-![AIGC](assets/img/welcome-5-aigc.png)
+![AIGC](welcome-5-aigc.png)
 
 
 ### Example 2: Classic TV Show Scene Restoration
