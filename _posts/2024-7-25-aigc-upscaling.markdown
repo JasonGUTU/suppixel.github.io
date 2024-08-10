@@ -1,9 +1,9 @@
 ---
 layout: post
 title: From AI Art to Ultra-HD -- How We’re Taking Generative Images to the Next Level
-date: 2024-07-25 00:00:00 +0300
+date: 2024-08-01 00:00:00 +0300
 description: Image enhancement. Image Upscaling. Image Generation. # Add post description (optional)
-img: how-to-start.jpg # Add image post (optional)
+img: aigc.png # Add image post (optional)
 ---
 Hey there, fellow digital art enthusiasts! 🎨
 
