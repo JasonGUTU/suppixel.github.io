@@ -1,8 +1,8 @@
 ---
 layout: post
-title: HypIR Launch: The Future of Image Restoration is Here
+title: HYPIR Launch - The Future of Image Restoration is Here
 date: 2025-07-29 00:00:00 +0300
-description: HypIR Launch: The Future of Image Restoration is Here # Add post description (optional)
+description: HypIR Launch - The Future of Image Restoration is Here # Add post description (optional)
 img: supir-hypir.png # Add image post (optional)
 ---
 
